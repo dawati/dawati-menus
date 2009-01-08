@@ -1,0 +1,36 @@
+AC_INIT(desktop-files)
+
+AM_INIT_AUTOMAKE(moblin-menus, 0.1.0)
+
+## intltool wants this
+GETTEXT_PACKAGE=moblin-menus
+AC_SUBST(GETTEXT_PACKAGE)
+
+# Honor aclocal flags
+ACLOCAL="$ACLOCAL $ACLOCAL_FLAGS"
+
+AM_MAINTAINER_MODE
+
+AM_DISABLE_STATIC
+	
+changequote(,)dnl
+if test "x$GCC" = "xyes"; then
+  case " $CFLAGS " in
+  *[\ \	]-Wall[\ \	]*) ;;
+  *) CFLAGS="$CFLAGS -Wall" ;;
+  esac
+fi
+changequote([,])dnl
+
+ALL_LINGUAS="en_GB"
+
+AM_GLIB_GNU_GETTEXT
+
+AC_PROG_INTLTOOL
+
+AC_OUTPUT([
+Makefile
+desktop-files/Makefile
+menus/Makefile
+po/Makefile.in
+])
