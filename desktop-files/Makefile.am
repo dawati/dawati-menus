@@ -11,7 +11,6 @@ directory_in_files=				\
 	Root.directory.in			\
 	Sawfish.directory.in			\
 	ServerConfig.directory.in		\
-	System.directory.in			\
 	SystemConfig.directory.in		\
 	Utilities.directory.in			\
 	Accessories-More.directory.in		\

@@ -19,7 +19,6 @@ desktop-files/ServerConfig-More.directory.in
 desktop-files/Settings-More.directory.in
 desktop-files/SystemConfig.directory.in
 desktop-files/SystemConfig-More.directory.in
-desktop-files/System.directory.in
 desktop-files/System-More.directory.in
 desktop-files/Utilities.directory.in
 desktop-files/Utilities-More.directory.in

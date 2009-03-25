@@ -1,3 +1,7 @@
+2009-01-10  Rusty Lynch <rusty.lynch@intel.com>
+
+       * Fix conflict with gnome-menus
+	
 2009-01-08  Rusty Lynch <rusty.lynch@intel.com>
 
        * Initial fork of redhat-menus project from a CVS snapshot
