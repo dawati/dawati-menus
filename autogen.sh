@@ -55,7 +55,7 @@ echo $ACLOCAL $ACLOCAL_FLAGS
 $ACLOCAL $ACLOCAL_FLAGS
 
 $AUTOMAKE -a -c $am_opt
-autoconf || echo "autoconf failed - version 2.5x is probably required"
+autoconf -i || echo "autoconf failed - version 2.5x is probably required"
 glib-gettextize --copy --force
 intltoolize --copy -f --automake
 
