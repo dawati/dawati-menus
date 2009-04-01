@@ -1,6 +1,6 @@
 AC_INIT(desktop-files)
 
-AM_INIT_AUTOMAKE(moblin-menus, 0.1.1)
+AM_INIT_AUTOMAKE(moblin-menus, 0.1.2)
 
 LT_INIT
 
