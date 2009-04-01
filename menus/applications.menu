@@ -4,36 +4,43 @@
 <Menu>
 
   <Name>Applications</Name>
-  <Directory>Applications.directory</Directory>
-
-  <!-- Scan legacy dirs first, as later items take priority -->
-  <LegacyDir>/usr/share/gnome/apps</LegacyDir>
-  <LegacyDir>/etc/X11/applnk</LegacyDir>
+  <Directory>X-GNOME-Menu-Applications.directory</Directory>
 
   <!-- Read standard .directory and .desktop file locations -->
-  <KDELegacyDirs/>
   <DefaultAppDirs/>
   <DefaultDirectoryDirs/>
 
-  <!-- Add stock tarball installs to menus -->
-  <AppDir>/usr/local/share/applications</AppDir>
-
-  <!-- Add a separator after the submenus -->
-  <Layout><Merge type="menus"/><Separator/><Merge type="files"/></Layout>
+  <!-- Read in overrides and child menus from applications-merged/ -->
+  <DefaultMergeDirs/>
 
   <!-- Accessories submenu -->
   <Menu>
     <Name>Accessories</Name>
-    <Directory>Accessories.directory</Directory>
+    <Directory>Utility.directory</Directory>
     <Include>
       <And>
         <Category>Utility</Category>
-        <Not>
-          <Category>System</Category>
-        </Not>
+	<!-- Accessibility spec must have either the Utility or Settings
+	     category, and we display an accessibility submenu already for
+	     the ones that do not have Settings, so don't display accessibility
+	     applications here -->
+        <Not><Category>Accessibility</Category></Not>
+        <Not><Category>System</Category></Not>
       </And>
     </Include>
   </Menu> <!-- End Accessories -->
+
+  <!-- Accessibility submenu -->
+  <Menu>
+    <Name>Universal Access</Name>
+    <Directory>Utility-Accessibility.directory</Directory>
+    <Include>
+      <And>
+        <Category>Accessibility</Category>
+        <Not><Category>Settings</Category></Not>
+      </And>
+    </Include>
+  </Menu> <!-- End Accessibility -->
 
   <!-- Development Tools -->
   <Menu>
@@ -43,6 +50,7 @@
       <And>
         <Category>Development</Category>
       </And>
+      <Filename>emacs.desktop</Filename>
     </Include>
   </Menu> <!-- End Development Tools -->
 
@@ -60,7 +68,7 @@
   <!-- Games -->
   <Menu>
     <Name>Games</Name>
-    <Directory>Games.directory</Directory>
+    <Directory>Game.directory</Directory>
     <Include>
       <And>
         <Category>Game</Category>
@@ -82,11 +90,10 @@
   <!-- Internet -->
   <Menu>
     <Name>Internet</Name>
-    <Directory>Internet.directory</Directory>
+    <Directory>Network.directory</Directory>
     <Include>
       <And>
         <Category>Network</Category>
-	<Not><Category>Settings</Category></Not>
       </And>
     </Include>
   </Menu>   <!-- End Internet -->
@@ -94,11 +101,10 @@
   <!-- Multimedia -->
   <Menu>
     <Name>Multimedia</Name>
-    <Directory>Multimedia.directory</Directory>
+    <Directory>AudioVideo.directory</Directory>
     <Include>
       <And>
         <Category>AudioVideo</Category>
-	<Not><Category>Settings</Category></Not>
       </And>
     </Include>
   </Menu>   <!-- End Multimedia -->
@@ -116,43 +122,47 @@
 
   <!-- System Tools-->
   <Menu>
-    <Name>System Tools</Name>
+    <Name>System</Name>
     <Directory>System-Tools.directory</Directory>
     <Include>
       <And>
         <Category>System</Category>
-	<Not><Category>Settings</Category></Not>
-        <Not><Category>Screensaver</Category></Not>
+        <Not><Category>Settings</Category></Not>
       </And>
     </Include>
-
-    <Exclude>
-      <Filename>pirut.desktop</Filename>
-    </Exclude>
   </Menu>   <!-- End System Tools -->
 
   <!-- Other -->
   <Menu>
     <Name>Other</Name>
-    <Directory>Other.directory</Directory>
+    <Directory>X-GNOME-Other.directory</Directory>
     <OnlyUnallocated/>
     <Include>
       <And>
         <Not><Category>Core</Category></Not>
         <Not><Category>Settings</Category></Not>
-        <Not><Category>SystemSetup</Category></Not>
-        <Not><Category>X-Red-Hat-ServerConfig</Category></Not>
         <Not><Category>Screensaver</Category></Not>
       </And>
     </Include>
   </Menu> <!-- End Other -->
 
- <Include>
-   <Filename>pirut.desktop</Filename>
- </Include>
+  <!-- The Debian menu -->
+  <Menu>
+    <Name>Debian</Name>
+    <MergeFile>debian-menu.menu</MergeFile>
+    <Directory>Debian.directory</Directory>
+  </Menu>
 
-  <MergeFile>applications-kmenuedit.menu</MergeFile>
+<Include>
+  <Filename>gnome-app-install.desktop</Filename>
+</Include>
 
-  <!-- Read in overrides and child menus from applications.d -->
-  <DefaultMergeDirs/>
+<!-- Separator between menus and gnome-app-install -->
+<Layout>
+  <Merge type="menus"/>
+  <Merge type="files"/>
+  <Separator/>
+  <Filename>gnome-app-install.desktop</Filename>
+</Layout>
+
 </Menu> <!-- End Applications -->
