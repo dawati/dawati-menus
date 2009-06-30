@@ -76,17 +76,6 @@
     </Include>
   </Menu> <!-- End Games -->
 
-  <!-- Graphics -->
-  <Menu>
-    <Name>Graphics</Name>
-    <Directory>Graphics.directory</Directory>
-    <Include>
-      <And>
-        <Category>Graphics</Category>
-      </And>
-    </Include>
-  </Menu> <!-- End Graphics -->
-
   <!-- Internet -->
   <Menu>
     <Name>Internet</Name>
@@ -100,12 +89,17 @@
 
   <!-- Multimedia -->
   <Menu>
-    <Name>Multimedia</Name>
-    <Directory>AudioVideo.directory</Directory>
+    <Name>Media</Name>
+    <Directory>Media.directory</Directory>
     <Include>
+    <Or>
+      <And>
+        <Category>Graphics</Category>
+      </And>
       <And>
         <Category>AudioVideo</Category>
       </And>
+    </Or>
     </Include>
   </Menu>   <!-- End Multimedia -->
 
