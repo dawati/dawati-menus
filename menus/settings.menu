@@ -21,7 +21,7 @@
   <!-- Merge in these other files as submenus -->
   <Menu>
     <Name>Settings</Name>
-    <Directory>Settings.directory</Directory>
+    <Directory>Settings-Moblin.directory</Directory>
     <Include>
     <Or>
       <And>
