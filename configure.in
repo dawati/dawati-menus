@@ -2,8 +2,6 @@ AC_INIT(desktop-files)
 
 AM_INIT_AUTOMAKE(moblin-menus, 0.1.2)
 
-LT_INIT
-
 ## intltool wants this
 GETTEXT_PACKAGE=moblin-menus
 AC_SUBST(GETTEXT_PACKAGE)
@@ -13,8 +11,6 @@ ACLOCAL="$ACLOCAL $ACLOCAL_FLAGS"
 
 AM_MAINTAINER_MODE
 
-AM_DISABLE_STATIC
-	
 changequote(,)dnl
 if test "x$GCC" = "xyes"; then
   case " $CFLAGS " in
