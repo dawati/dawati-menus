@@ -20,8 +20,6 @@ if test "x$GCC" = "xyes"; then
 fi
 changequote([,])dnl
 
-ALL_LINGUAS="en_GB"
-
 AM_GLIB_GNU_GETTEXT
 
 AC_PROG_INTLTOOL
