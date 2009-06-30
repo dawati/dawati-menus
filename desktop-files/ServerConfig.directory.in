@@ -1,6 +1,0 @@
-[Desktop Entry]
-Type=Directory
-_Name=Server Settings
-_Comment=Configure network services (web server, DNS server, etc.)
-Icon=redhat-server_settings.png
-Terminal=0
