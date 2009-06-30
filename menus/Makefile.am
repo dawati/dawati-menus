@@ -6,7 +6,6 @@ menu_DATA=					\
 	settings.menu				\
 	documentation.menu			\
 	preferences.menu			\
-	server-settings.menu			\
 	system-settings.menu			\
 	start-here.menu                         \
 	$(NIL)
