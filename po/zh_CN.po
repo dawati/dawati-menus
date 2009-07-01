@@ -1,0 +1,49 @@
+# moblin menus
+# Copyright Intel(C) 2009
+# This file is distributed under the same license as the PACKAGE package.
+# Zhu Yanhai <yanhai.zhu@linux.intel.com>, 2009.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: moblin-menus\n"
+"Report-Msgid-Bugs-To: bugzilla.moblin.org\n"
+"POT-Creation-Date: 2009-06-30 16:42+0000\n"
+"PO-Revision-Date: 2009-07-01 16:35+0800\n"
+"Last-Translator: Zhu Yanhai <yanhai.zhu@linux.intel.com>\n"
+"Language-Team: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../desktop-files/Documentation.directory.in.h:1
+msgid "Documentation"
+msgstr "文档"
+
+#: ../desktop-files/Documentation.directory.in.h:2
+msgid "Manuals and help documents"
+msgstr "手册和帮助文档"
+
+#: ../desktop-files/Media.directory.in.h:1
+msgid "Media"
+msgstr "媒体"
+
+#: ../desktop-files/Media.directory.in.h:2
+msgid "Multimedia applications"
+msgstr "多媒体应用程序"
+
+#: ../desktop-files/Settings-Moblin.directory.in.h:1
+msgid "Personal preferences"
+msgstr "个人首选项"
+
+#: ../desktop-files/Settings-Moblin.directory.in.h:2
+msgid "Settings"
+msgstr "设置"
+
+#: ../desktop-files/SystemConfig.directory.in.h:1
+msgid "Administration"
+msgstr "管理"
+
+#: ../desktop-files/SystemConfig.directory.in.h:2
+msgid "Change systemwide settings (affects all users)"
+msgstr "改变系统级设置(会影响到全部用户)"
