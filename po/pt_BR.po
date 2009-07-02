@@ -1,0 +1,46 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-06-30 16:42+0000\n"
+"PO-Revision-Date: \n"
+"Last-Translator: GLSPTB_Gabor <gaborx.k.becht@intel.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Portuguese\n"
+"X-Poedit-SourceCharset: utf-8\n"
+
+#: ../desktop-files/Documentation.directory.in.h:1
+msgid "Documentation"
+msgstr "Documentação"
+
+#: ../desktop-files/Documentation.directory.in.h:2
+msgid "Manuals and help documents"
+msgstr "Manuais e documentos de ajuda"
+
+#: ../desktop-files/Media.directory.in.h:1
+msgid "Media"
+msgstr "Mídia"
+
+#: ../desktop-files/Media.directory.in.h:2
+msgid "Multimedia applications"
+msgstr "Aplicativos de multimídia"
+
+#: ../desktop-files/Settings-Moblin.directory.in.h:1
+msgid "Personal preferences"
+msgstr "Preferências pessoais"
+
+#: ../desktop-files/Settings-Moblin.directory.in.h:2
+msgid "Settings"
+msgstr "Configurações  "
+
+#: ../desktop-files/SystemConfig.directory.in.h:1
+msgid "Administration"
+msgstr "Administração"
+
+#: ../desktop-files/SystemConfig.directory.in.h:2
+msgid "Change systemwide settings (affects all users)"
+msgstr "Modificar configurações do sistema (afeta todos os usuários)"
+
