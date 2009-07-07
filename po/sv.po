@@ -1,0 +1,47 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-06-30 16:42+0000\n"
+"PO-Revision-Date: \n"
+"Last-Translator: GLSSVE_GMartinson <gmartinson@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n!=1; \n"
+"X-Poedit-Language: Swedish\n"
+"X-Poedit-SourceCharset: utf-8\n"
+
+#: ../desktop-files/Documentation.directory.in.h:1
+msgid "Documentation"
+msgstr "Dokumentation"
+
+#: ../desktop-files/Documentation.directory.in.h:2
+msgid "Manuals and help documents"
+msgstr "Manualer och hjälpdokument"
+
+#: ../desktop-files/Media.directory.in.h:1
+msgid "Media"
+msgstr "Media"
+
+#: ../desktop-files/Media.directory.in.h:2
+msgid "Multimedia applications"
+msgstr "Multimediaprogram"
+
+#: ../desktop-files/Settings-Moblin.directory.in.h:1
+msgid "Personal preferences"
+msgstr "Personliga inställningar"
+
+#: ../desktop-files/Settings-Moblin.directory.in.h:2
+msgid "Settings"
+msgstr "Inställningar"
+
+#: ../desktop-files/SystemConfig.directory.in.h:1
+msgid "Administration"
+msgstr "Administration"
+
+#: ../desktop-files/SystemConfig.directory.in.h:2
+msgid "Change systemwide settings (affects all users)"
+msgstr "Ändra systeminställningar (påverkar alla användare)"
+
