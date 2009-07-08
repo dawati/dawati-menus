@@ -1,6 +1,6 @@
 AC_INIT(desktop-files)
 
-AM_INIT_AUTOMAKE(moblin-menus, 0.1.5)
+AM_INIT_AUTOMAKE(moblin-menus, 0.1.6)
 
 ## intltool wants this
 GETTEXT_PACKAGE=moblin-menus
