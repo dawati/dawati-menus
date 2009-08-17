@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: moblin-menus 2.x\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2009-08-13 01:10+0000\n"
-"PO-Revision-Date: 2009-08-14 15:15+0700\n"
+"POT-Creation-Date: 2009-08-17 09:26+0000\n"
+"PO-Revision-Date: 2009-08-17 19:07+0700\n"
 "Last-Translator: Anuchit Chalothorn <anoochit@gmail.com>\n"
 "Language-Team: Thai <L10N@OpenTLE.org>\n"
 "MIME-Version: 1.0\n"
@@ -46,7 +46,6 @@ msgid "Administration"
 msgstr "ดูแลระบบ"
 
 #: ../desktop-files/SystemConfig.directory.in.h:2
-#, fuzzy
 msgid "Change systemwide settings (affects all users)"
-msgstr "เปลี่ยนการตั้งค่าระบบกว้าง (มีผลต่อผู้ใช้ทุกคน)"
+msgstr "เปลี่ยนการตั้งค่าทั้งหมด (มีผลต่อผู้ใช้ทุกคน)"
 
