@@ -1,6 +1,8 @@
 
 SUBDIRS=desktop-files menus po
 
+ACLOCAL_AMFLAGS = -I m4
+
 EXTRA_DIST=					\
 	intltool-extract.in			\
 	intltool-merge.in			\

@@ -1,4 +1,5 @@
 AC_INIT(desktop-files)
+AC_CONFIG_MACRO_DIR([m4])
 
 AM_INIT_AUTOMAKE(moblin-menus, 0.1.6)
 
@@ -23,6 +24,8 @@ changequote([,])dnl
 AM_GLIB_GNU_GETTEXT
 
 AC_PROG_INTLTOOL
+
+AS_ALL_LINGUAS
 
 AC_OUTPUT([
 Makefile
