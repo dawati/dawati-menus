@@ -1,7 +1,7 @@
 AC_INIT(desktop-files)
 AC_CONFIG_MACRO_DIR([m4])
 
-AM_INIT_AUTOMAKE(moblin-menus, 0.1.6)
+AM_INIT_AUTOMAKE(moblin-menus, 0.1.7)
 
 ## intltool wants this
 GETTEXT_PACKAGE=moblin-menus
