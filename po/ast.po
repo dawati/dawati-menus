@@ -1,0 +1,47 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: moblin-menus\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-11-19 18:20+0000\n"
+"PO-Revision-Date: \n"
+"Last-Translator: astur <malditoastur@gmail.com>\n"
+"Language-Team: Asturian <alministradores@softastur.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Asturian\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+#: ../desktop-files/Documentation.directory.in.h:1
+msgid "Documentation"
+msgstr "Documentación"
+
+#: ../desktop-files/Documentation.directory.in.h:2
+msgid "Manuals and help documents"
+msgstr "Manuales y documentos d'aida"
+
+#: ../desktop-files/Media.directory.in.h:1
+msgid "Media"
+msgstr "Multimedia"
+
+#: ../desktop-files/Media.directory.in.h:2
+msgid "Multimedia applications"
+msgstr "Aplicaciones multimedia"
+
+#: ../desktop-files/Settings-Moblin.directory.in.h:1
+msgid "Personal preferences"
+msgstr "Preferencies personales"
+
+#: ../desktop-files/Settings-Moblin.directory.in.h:2
+msgid "Settings"
+msgstr "Axustes"
+
+#: ../desktop-files/SystemConfig.directory.in.h:1
+msgid "Administration"
+msgstr "Alministración"
+
+#: ../desktop-files/SystemConfig.directory.in.h:2
+msgid "Change systemwide settings (affects all users)"
+msgstr "Camudar configuraciones de tol sistema (afeuta a tolos usuarios)"
+
