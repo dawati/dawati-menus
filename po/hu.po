@@ -1,0 +1,47 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: menus\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-12-24 12:29+0000\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Gönczi Norbert <gonczinorbert@gmail.com>\n"
+"Language-Team: Hungary\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Hungarian\n"
+"X-Poedit-Country: HUNGARY\n"
+"X-Poedit-SourceCharset: utf-8\n"
+
+#: ../desktop-files/Documentation.directory.in.h:1
+msgid "Documentation"
+msgstr "Dokumentáció"
+
+#: ../desktop-files/Documentation.directory.in.h:2
+msgid "Manuals and help documents"
+msgstr "Segítség és kézikönyv"
+
+#: ../desktop-files/Media.directory.in.h:1
+msgid "Media"
+msgstr "Adathordozó"
+
+#: ../desktop-files/Media.directory.in.h:2
+msgid "Multimedia applications"
+msgstr "Multimédia alkalmazások"
+
+#: ../desktop-files/Settings-Moblin.directory.in.h:1
+msgid "Personal preferences"
+msgstr "Személyes beállítások"
+
+#: ../desktop-files/Settings-Moblin.directory.in.h:2
+msgid "Settings"
+msgstr "Beállítások"
+
+#: ../desktop-files/SystemConfig.directory.in.h:1
+msgid "Administration"
+msgstr "Adminisztráció"
+
+#: ../desktop-files/SystemConfig.directory.in.h:2
+msgid "Change systemwide settings (affects all users)"
+msgstr "Rendszerszintű beállítások módosítása (minden felhasználóra kihat)"
+
