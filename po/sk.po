@@ -1,0 +1,48 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Tomáš Virgl <tomas@virgl.net>, 2010.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: moblin-menus.master\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-04-21 09:29+0000\n"
+"PO-Revision-Date: 2010-04-21 01:43+0200\n"
+"Last-Translator: Tomáš Virgl <tomas@virgl.net>\n"
+"Language-Team: slovak <sk-i18n@lists.linux.sk>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../desktop-files/Documentation.directory.in.h:1
+msgid "Documentation"
+msgstr "Dokumentácia"
+
+#: ../desktop-files/Documentation.directory.in.h:2
+msgid "Manuals and help documents"
+msgstr "Manuály a pomocné dokumenty"
+
+#: ../desktop-files/Media.directory.in.h:1
+msgid "Media"
+msgstr "Multimédiá"
+
+#: ../desktop-files/Media.directory.in.h:2
+msgid "Multimedia applications"
+msgstr "Multimediálne aplikácie"
+
+#: ../desktop-files/Settings-Moblin.directory.in.h:1
+msgid "Personal preferences"
+msgstr "Osobné nastavenia"
+
+#: ../desktop-files/Settings-Moblin.directory.in.h:2
+msgid "Settings"
+msgstr "Nastavenia"
+
+#: ../desktop-files/SystemConfig.directory.in.h:1
+msgid "Administration"
+msgstr "Administrácia"
+
+#: ../desktop-files/SystemConfig.directory.in.h:2
+msgid "Change systemwide settings (affects all users)"
+msgstr "Zmena nastavení systému (dotkne sa všetkých používateľov)"
