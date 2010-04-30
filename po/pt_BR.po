@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2009-06-30 16:42+0000\n"
+"POT-Creation-Date: 2010-04-28 09:32+0000\n"
 "PO-Revision-Date: \n"
 "Last-Translator: GLSPTB_Gabor <gaborx.k.becht@intel.com>\n"
 "Language-Team: \n"
@@ -43,4 +43,3 @@ msgstr "Administração"
 #: ../desktop-files/SystemConfig.directory.in.h:2
 msgid "Change systemwide settings (affects all users)"
 msgstr "Modificar configurações do sistema (afeta todos os usuários)"
-
