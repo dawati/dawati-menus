@@ -10,6 +10,9 @@
   <DefaultAppDirs/>
   <DefaultDirectoryDirs/>
 
+  <!-- MeeGo overlay directory where custom desktop files are installed -->
+  <AppDir>/usr/share/applications-meego</AppDir>
+
   <!-- Read in overrides and child menus from applications-merged/ -->
   <DefaultMergeDirs/>
 
