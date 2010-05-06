@@ -2,3 +2,4 @@
 autoreconf -i
 glib-gettextize --copy --force
 intltoolize --copy -f --automake
+./configure $@
