@@ -1,7 +1,8 @@
-AC_INIT(desktop-files)
+AC_INIT
+AC_CONFIG_SRCDIR([desktop-files])
 AC_CONFIG_MACRO_DIR([m4])
 
-AM_INIT_AUTOMAKE(moblin-menus, 0.1.7)
+AM_INIT_AUTOMAKE(moblin-menus, 0.2.0)
 
 ## intltool wants this
 GETTEXT_PACKAGE=moblin-menus
@@ -9,8 +10,6 @@ AC_SUBST(GETTEXT_PACKAGE)
 
 # Honor aclocal flags
 ACLOCAL="$ACLOCAL $ACLOCAL_FLAGS"
-
-AM_MAINTAINER_MODE
 
 changequote(,)dnl
 if test "x$GCC" = "xyes"; then
@@ -23,13 +22,14 @@ changequote([,])dnl
 
 AM_GLIB_GNU_GETTEXT
 
-AC_PROG_INTLTOOL
+IT_PROG_INTLTOOL
 
 AS_ALL_LINGUAS
 
-AC_OUTPUT([
+AC_CONFIG_FILES([
 Makefile
 desktop-files/Makefile
 menus/Makefile
 po/Makefile.in
 ])
+AC_OUTPUT
