@@ -22,10 +22,6 @@ msgstr "Documentation"
 msgid "Manuals and help documents"
 msgstr "Manuels et autres documents d'aide"
 
-#: ../desktop-files/Media.directory.in.h:2
-msgid "Multimedia applications"
-msgstr "Applications multimedia"
-
 #: ../desktop-files/Settings-Moblin.directory.in.h:1
 msgid "Personal preferences"
 msgstr "Préférences personnelles"
@@ -45,3 +41,7 @@ msgstr "Changer les paramètres du système (affecte tous les utilisateurs)"
 #: ../desktop-files/Media.directory.in.h:1
 msgid "Media"
 msgstr "Média"
+
+#: ../desktop-files/Media.directory.in.h:2
+msgid "Multimedia applications"
+msgstr "Applications multimédia"
