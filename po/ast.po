@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: moblin-menus\n"
+"Project-Id-Version: meego-menus\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2009-11-19 18:20+0000\n"
 "PO-Revision-Date: \n"
@@ -29,11 +29,11 @@ msgstr "Multimedia"
 msgid "Multimedia applications"
 msgstr "Aplicaciones multimedia"
 
-#: ../desktop-files/Settings-Moblin.directory.in.h:1
+#: ../desktop-files/Settings-Meego.directory.in.h:1
 msgid "Personal preferences"
 msgstr "Preferencies personales"
 
-#: ../desktop-files/Settings-Moblin.directory.in.h:2
+#: ../desktop-files/Settings-Meego.directory.in.h:2
 msgid "Settings"
 msgstr "Axustes"
 

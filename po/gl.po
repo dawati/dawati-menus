@@ -32,11 +32,11 @@ msgstr "Multimedia"
 msgid "Multimedia applications"
 msgstr "Aplicacións de multimedia"
 
-#: ../desktop-files/Settings-Moblin.directory.in.h:1
+#: ../desktop-files/Settings-Meego.directory.in.h:1
 msgid "Personal preferences"
 msgstr "Preferencias persoais"
 
-#: ../desktop-files/Settings-Moblin.directory.in.h:2
+#: ../desktop-files/Settings-Meego.directory.in.h:2
 msgid "Settings"
 msgstr "Configuración"
 

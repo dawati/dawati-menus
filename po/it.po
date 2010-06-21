@@ -1,11 +1,11 @@
-# Italian translations for moblin-menus package.
-# Copyright (C) 2009 the moblin-menus' package holder.
-# This file is distributed under the same license as the moblin-menus package.
+# Italian translations for meego-menus package.
+# Copyright (C) 2009 the meego-menus' package holder.
+# This file is distributed under the same license as the meego-menus package.
 # Milo Casagrande <milo@ubuntu.com>, 2009.
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: moblin-menus\n"
+"Project-Id-Version: meego-menus\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2009-07-02 13:13+0200\n"
 "PO-Revision-Date: 2009-07-02 13:14+0200\n"
@@ -32,11 +32,11 @@ msgstr "Multimedia"
 msgid "Multimedia applications"
 msgstr "Applicazioni multimediali"
 
-#: ../desktop-files/Settings-Moblin.directory.in.h:1
+#: ../desktop-files/Settings-Meego.directory.in.h:1
 msgid "Personal preferences"
 msgstr "Preferenze personali"
 
-#: ../desktop-files/Settings-Moblin.directory.in.h:2
+#: ../desktop-files/Settings-Meego.directory.in.h:2
 msgid "Settings"
 msgstr "Impostazioni"
 

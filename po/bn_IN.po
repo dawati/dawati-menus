@@ -33,11 +33,11 @@ msgstr "মিডিয়া"
 msgid "Multimedia applications"
 msgstr "মাল্টিমিডিয়া অ্যাপ্লিকেশন"
 
-#: ../desktop-files/Settings-Moblin.directory.in.h:1
+#: ../desktop-files/Settings-Meego.directory.in.h:1
 msgid "Personal preferences"
 msgstr "নিজস্ব পছন্দের বৈশিষ্ট্য"
 
-#: ../desktop-files/Settings-Moblin.directory.in.h:2
+#: ../desktop-files/Settings-Meego.directory.in.h:2
 msgid "Settings"
 msgstr "বিবিধ বৈশিষ্ট্য"
 

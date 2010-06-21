@@ -6,7 +6,7 @@ directorydir=$(datadir)/desktop-directories
 directory_in_files=				\
 	Documentation.directory.in		\
 	Media.directory.in			\
-	Settings-Moblin.directory.in		\
+	Settings-Meego.directory.in		\
 	SystemConfig.directory.in
 
 directory_DATA = $(directory_in_files:.directory.in=.directory)

@@ -1,11 +1,11 @@
-# Danish translation moblin-menus
+# Danish translation meego-menus
 # Copyright (C) 2009
-# This file is distributed under the same license as the moblin-menus package.
+# This file is distributed under the same license as the meego-menus package.
 # Kris Thomsen <lakristho@gmail.com>, 2009.
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: moblin-menus\n"
+"Project-Id-Version: meego-menus\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2009-10-16 11:27+0000\n"
 "PO-Revision-Date: 2009-11-06 12:53+0100\n"
@@ -31,11 +31,11 @@ msgstr "Medie"
 msgid "Multimedia applications"
 msgstr "Multimedieprogrammer"
 
-#: ../desktop-files/Settings-Moblin.directory.in.h:1
+#: ../desktop-files/Settings-Meego.directory.in.h:1
 msgid "Personal preferences"
 msgstr "Personlige indstillinger"
 
-#: ../desktop-files/Settings-Moblin.directory.in.h:2
+#: ../desktop-files/Settings-Meego.directory.in.h:2
 msgid "Settings"
 msgstr "Opsætning"
 

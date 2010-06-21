@@ -31,11 +31,11 @@ msgstr "So i vídeo"
 msgid "Multimedia applications"
 msgstr "Aplicacions multimèdia"
 
-#: ../desktop-files/Settings-Moblin.directory.in.h:1
+#: ../desktop-files/Settings-Meego.directory.in.h:1
 msgid "Personal preferences"
 msgstr "Preferències personals"
 
-#: ../desktop-files/Settings-Moblin.directory.in.h:2
+#: ../desktop-files/Settings-Meego.directory.in.h:2
 msgid "Settings"
 msgstr "Paràmetres"
 

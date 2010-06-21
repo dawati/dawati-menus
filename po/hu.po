@@ -29,11 +29,11 @@ msgstr "Adathordozó"
 msgid "Multimedia applications"
 msgstr "Multimédia alkalmazások"
 
-#: ../desktop-files/Settings-Moblin.directory.in.h:1
+#: ../desktop-files/Settings-Meego.directory.in.h:1
 msgid "Personal preferences"
 msgstr "Személyes beállítások"
 
-#: ../desktop-files/Settings-Moblin.directory.in.h:2
+#: ../desktop-files/Settings-Meego.directory.in.h:2
 msgid "Settings"
 msgstr "Beállítások"
 

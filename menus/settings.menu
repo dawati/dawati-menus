@@ -21,7 +21,7 @@
   <!-- Merge in these other files as submenus -->
   <Menu>
     <Name>Settings</Name>
-    <Directory>Settings-Moblin.directory</Directory>
+    <Directory>Settings-Meego.directory</Directory>
     <Include>
     <Or>
       <And>

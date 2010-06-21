@@ -1,11 +1,11 @@
-# moblin menus
+# meego menus
 # Copyright Intel(C) 2009
 # This file is distributed under the same license as the PACKAGE package.
 # Zhu Yanhai <yanhai.zhu@linux.intel.com>, 2009.
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: moblin-menus\n"
+"Project-Id-Version: meego-menus\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2009-09-15 09:06+0000\n"
 "PO-Revision-Date: 2009-09-18 10:25-0800\n"
@@ -31,11 +31,11 @@ msgstr "媒体"
 msgid "Multimedia applications"
 msgstr "多媒体应用程序"
 
-#: ../desktop-files/Settings-Moblin.directory.in.h:1
+#: ../desktop-files/Settings-Meego.directory.in.h:1
 msgid "Personal preferences"
 msgstr "个人首选项"
 
-#: ../desktop-files/Settings-Moblin.directory.in.h:2
+#: ../desktop-files/Settings-Meego.directory.in.h:2
 msgid "Settings"
 msgstr "设置"
 

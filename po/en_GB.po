@@ -1,6 +1,6 @@
 # en_GB locale
 # Copyright (C) 2009 Intel Corporation
-# This file is distributed under the same license as the moblin-menus package.
+# This file is distributed under the same license as the meego-menus package.
 # Damien Lespiau <damien.lespiau@intel.com>, 2009.
 #
 #, fuzzy
@@ -32,11 +32,11 @@ msgstr "Media"
 msgid "Multimedia applications"
 msgstr "Multimedia applications"
 
-#: ../desktop-files/Settings-Moblin.directory.in.h:1
+#: ../desktop-files/Settings-Meego.directory.in.h:1
 msgid "Personal preferences"
 msgstr "Personal preferences"
 
-#: ../desktop-files/Settings-Moblin.directory.in.h:2
+#: ../desktop-files/Settings-Meego.directory.in.h:2
 msgid "Settings"
 msgstr "Settings"
 
