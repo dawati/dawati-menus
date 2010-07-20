@@ -1,0 +1,50 @@
+# translation of lo.po to Lao
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Anousak Souphavanh <anousak@gmail.com>, 2010.
+msgid ""
+msgstr ""
+"Project-Id-Version: lo\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-07-03 11:57+0000\n"
+"PO-Revision-Date: 2010-07-20 16:42+0700\n"
+"Last-Translator: Anousak Souphavanh <anousak@gmail.com>\n"
+"Language-Team: Lao <lo@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.11.4\n"
+
+#: ../desktop-files/Documentation.directory.in.h:1
+msgid "Documentation"
+msgstr ""
+
+#: ../desktop-files/Documentation.directory.in.h:2
+msgid "Manuals and help documents"
+msgstr "ຄູ່ມື ເເລະ ເອກສານ"
+
+#: ../desktop-files/Media.directory.in.h:1
+msgid "Media"
+msgstr ""
+
+#: ../desktop-files/Media.directory.in.h:2
+msgid "Multimedia applications"
+msgstr ""
+
+#: ../desktop-files/Settings-Meego.directory.in.h:1
+msgid "Personal preferences"
+msgstr ""
+
+#: ../desktop-files/Settings-Meego.directory.in.h:2
+msgid "Settings"
+msgstr "ຕັ້ງຄ່າ"
+
+#: ../desktop-files/SystemConfig.directory.in.h:1
+msgid "Administration"
+msgstr "ຄູ້ມຄອງ"
+
+#: ../desktop-files/SystemConfig.directory.in.h:2
+msgid "Change systemwide settings (affects all users)"
+msgstr "ປ່ຽນຕັ້ງຄ່າລະບົບກ້ວງ (ຈະກະທົບຜູ້ໃຊ້ທັງຫມົດ)"
+
