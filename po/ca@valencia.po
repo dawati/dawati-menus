@@ -1,0 +1,49 @@
+# Menus Catalan translation.
+# Copyright (C) 2009 Free Software Foundation, Inc.
+# This file is distributed under the same license as the Menus package.
+# Gil Forcada <gilforcada@guifi.net>, 2009.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Menus 2.x\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-08-15 09:23+0000\n"
+"PO-Revision-Date: 2009-08-21 11:40+0200\n"
+"Last-Translator: Gil Forcada <gilforcada@guifi.net>\n"
+"Language-Team: Catalan <tradgnome@softcatala.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../desktop-files/Documentation.directory.in.h:1
+msgid "Documentation"
+msgstr "Documentació"
+
+#: ../desktop-files/Documentation.directory.in.h:2
+msgid "Manuals and help documents"
+msgstr "Manuals i documents d'ajuda"
+
+#: ../desktop-files/Media.directory.in.h:1
+msgid "Media"
+msgstr "So i vídeo"
+
+#: ../desktop-files/Media.directory.in.h:2
+msgid "Multimedia applications"
+msgstr "Aplicacions multimèdia"
+
+#: ../desktop-files/Settings-Meego.directory.in.h:1
+msgid "Personal preferences"
+msgstr "Preferències personals"
+
+#: ../desktop-files/Settings-Meego.directory.in.h:2
+msgid "Settings"
+msgstr "Paràmetres"
+
+#: ../desktop-files/SystemConfig.directory.in.h:1
+msgid "Administration"
+msgstr "Administració"
+
+#: ../desktop-files/SystemConfig.directory.in.h:2
+msgid "Change systemwide settings (affects all users)"
+msgstr ""
+"Canvia la configuració de tot el sistema (afecta a tots els usuaris)"
