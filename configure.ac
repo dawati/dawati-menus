@@ -2,7 +2,7 @@ AC_INIT
 AC_CONFIG_SRCDIR([desktop-files])
 AC_CONFIG_MACRO_DIR([m4])
 
-AM_INIT_AUTOMAKE(meego-menus, 0.2.0)
+AM_INIT_AUTOMAKE(meego-menus, 0.2.1)
 
 ## intltool wants this
 GETTEXT_PACKAGE=meego-menus
