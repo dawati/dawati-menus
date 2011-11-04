@@ -1,0 +1,54 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# 
+# Translators:
+# Danh Hong <dnhhng@yahoo.com>, 2011.
+# សុវិចិត្រ Sovichet ទេព Tep <sovichet.tep@gmail.com>, 2011.
+msgid ""
+msgstr ""
+"Project-Id-Version: meego-menus\n"
+"Report-Msgid-Bugs-To: http://bugs.meego.com/\n"
+"POT-Creation-Date: 2011-11-02 13:27-0700\n"
+"PO-Revision-Date: 2011-04-21 11:53+0000\n"
+"Last-Translator: sovichet <sovichet.tep@gmail.com>\n"
+"Language-Team: Khmer (http://www.transifex.net/projects/p/meego/team/km/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: km\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+
+#: ../desktop-files/Documentation.directory.in.h:1
+msgid "Documentation"
+msgstr "ឯកសារ"
+
+#: ../desktop-files/Documentation.directory.in.h:2
+msgid "Manuals and help documents"
+msgstr "ឯកសារណែនាំ និងជំនួយ"
+
+#: ../desktop-files/Media.directory.in.h:1
+msgid "Media"
+msgstr "ព័ត៌មាន"
+
+#: ../desktop-files/Media.directory.in.h:2
+msgid "Multimedia applications"
+msgstr "កម្មវិធីពហុព័ត៌មាន"
+
+#: ../desktop-files/Settings-Meego.directory.in.h:1
+msgid "Personal preferences"
+msgstr "ការអនុគ្រោះបុគ្គល"
+
+#: ../desktop-files/Settings-Meego.directory.in.h:2
+msgid "Settings"
+msgstr "ការកំណត់"
+
+#: ../desktop-files/SystemConfig.directory.in.h:1
+msgid "Administration"
+msgstr "គ្រប់គ្រង"
+
+#: ../desktop-files/SystemConfig.directory.in.h:2
+msgid "Change systemwide settings (affects all users)"
+msgstr "ប្ដូរការកំណត់ systemwide (affects all users)"
+
+
