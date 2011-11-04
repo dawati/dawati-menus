@@ -1,0 +1,7 @@
+[main]
+host = https://meego.transifex.net
+
+[meego-menus.meego-menus]
+file_filter = po/<lang>.po
+source_lang = en
+source_file = po/meego-menus.pot
