@@ -22,11 +22,11 @@ msgstr "Documentation"
 msgid "Manuals and help documents"
 msgstr "Manuels et autres documents d'aide"
 
-#: ../desktop-files/Settings-Meego.directory.in.h:1
+#: ../desktop-files/Settings-Dawati.directory.in.h:1
 msgid "Personal preferences"
 msgstr "Préférences personnelles"
 
-#: ../desktop-files/Settings-Meego.directory.in.h:2
+#: ../desktop-files/Settings-Dawati.directory.in.h:2
 msgid "Settings"
 msgstr "Paramètres"
 

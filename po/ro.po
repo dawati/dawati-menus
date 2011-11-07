@@ -1,16 +1,16 @@
-# Romanian translations for meego-menus package.
-# Copyright (C) 2009 The meego-menus copyright holder
-# This file is distributed under the same license as the meego-menus package.
+# Romanian translations for dawati-menus package.
+# Copyright (C) 2009 The dawati-menus copyright holder
+# This file is distributed under the same license as the dawati-menus package.
 # Cosmin Bordeianu <elloxar@gmail.com>, 2009.
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: meego-menus\n"
+"Project-Id-Version: dawati-menus\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2009-08-24 09:25+0000\n"
 "PO-Revision-Date: 2009-08-30 03:54+0200\n"
 "Last-Translator: Cosmin Bordeianu <elloxar@gmail.com>\n"
-"Language-Team: Meego Romania <live@meego.ro>\n"
+"Language-Team: Dawati Romania <live@dawati.ro>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -35,11 +35,11 @@ msgstr "Media"
 msgid "Multimedia applications"
 msgstr "Aplicații multimedia"
 
-#: ../desktop-files/Settings-Meego.directory.in.h:1
+#: ../desktop-files/Settings-Dawati.directory.in.h:1
 msgid "Personal preferences"
 msgstr "Preferințe personale"
 
-#: ../desktop-files/Settings-Meego.directory.in.h:2
+#: ../desktop-files/Settings-Dawati.directory.in.h:2
 msgid "Settings"
 msgstr "Setări"
 

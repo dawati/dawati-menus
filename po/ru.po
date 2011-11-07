@@ -1,11 +1,11 @@
-# translation of menus.master.meego-menus.po to
+# translation of menus.master.dawati-menus.po to
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
 msgid ""
 msgstr ""
-"Project-Id-Version: meego menus ru\n"
+"Project-Id-Version: dawati menus ru\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2009-10-01 19:16+0000\n"
 "PO-Revision-Date: 2009-08-19 12:53+0300\n"
@@ -33,7 +33,7 @@ msgstr "Медиа"
 msgid "Multimedia applications"
 msgstr "Мультимедийные приложения"
 
-#: ../desktop-files/Settings-Meego.directory.in.h:2
+#: ../desktop-files/Settings-Dawati.directory.in.h:2
 msgid "Settings"
 msgstr "Настройки"
 
@@ -45,6 +45,6 @@ msgstr "Администрирование"
 msgid "Change systemwide settings (affects all users)"
 msgstr "Изменить общесистемные настройки (для всех пользователей)"
 
-#: ../desktop-files/Settings-Meego.directory.in.h:1
+#: ../desktop-files/Settings-Dawati.directory.in.h:1
 msgid "Personal preferences"
 msgstr "Личные настройки"

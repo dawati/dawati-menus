@@ -2,10 +2,10 @@ AC_INIT
 AC_CONFIG_SRCDIR([desktop-files])
 AC_CONFIG_MACRO_DIR([m4])
 
-AM_INIT_AUTOMAKE(meego-menus, 0.2.1)
+AM_INIT_AUTOMAKE(dawati-menus, 0.2.1)
 
 ## intltool wants this
-GETTEXT_PACKAGE=meego-menus
+GETTEXT_PACKAGE=dawati-menus
 AC_SUBST(GETTEXT_PACKAGE)
 
 # Honor aclocal flags

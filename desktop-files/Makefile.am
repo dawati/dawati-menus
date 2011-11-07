@@ -6,10 +6,10 @@ directorydir=$(datadir)/desktop-directories
 directory_in_files=				\
 	Documentation.directory.in		\
 	Media.directory.in			\
-	Settings-Meego.directory.in		\
+	Settings-Dawati.directory.in		\
 	SystemConfig.directory.in
 
 directory_DATA = $(directory_in_files:.directory.in=.directory)
 
-EXTRA_DIST= $(directory_in_files) 
-DISTCLEANFILES = $(directory_in_files:.directory.in=.directory) 
+EXTRA_DIST= $(directory_in_files)
+DISTCLEANFILES = $(directory_in_files:.directory.in=.directory)

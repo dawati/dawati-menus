@@ -6,8 +6,8 @@
 # Jure Repinc <jlp@holodeck1.com>, 2011.
 msgid ""
 msgstr ""
-"Project-Id-Version: meego-menus\n"
-"Report-Msgid-Bugs-To: http://bugs.meego.com/\n"
+"Project-Id-Version: dawati-menus\n"
+"Report-Msgid-Bugs-To: http://bugs.dawati.com/\n"
 "POT-Creation-Date: 2011-11-02 13:27-0700\n"
 "PO-Revision-Date: 2011-03-31 13:18+0000\n"
 "Last-Translator: JLP <jlp@holodeck1.com>\n"
@@ -34,11 +34,11 @@ msgstr "Večpredstavnost"
 msgid "Multimedia applications"
 msgstr "Večpredstavnostni programi"
 
-#: ../desktop-files/Settings-Meego.directory.in.h:1
+#: ../desktop-files/Settings-Dawati.directory.in.h:1
 msgid "Personal preferences"
 msgstr "Osebne nastavitve"
 
-#: ../desktop-files/Settings-Meego.directory.in.h:2
+#: ../desktop-files/Settings-Dawati.directory.in.h:2
 msgid "Settings"
 msgstr "Nastavitve"
 

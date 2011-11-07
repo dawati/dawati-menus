@@ -1,6 +1,6 @@
 # pl locale
 # Copyright (C) 2009 Intel Corporation
-# This file is distributed under the same license as the meego-menus package.
+# This file is distributed under the same license as the dawati-menus package.
 # Andrzej Zaborowski <andrew.zaborowski@intel.com>, 2009.
 #
 # I'm aware of the GNOME-PL translation guidelines (aviary.pl) and I
@@ -14,7 +14,7 @@ msgstr ""
 "POT-Creation-Date: 2009-07-01 09:17+0000\n"
 "PO-Revision-Date: 2009-06-30 16:35+0200\n"
 "Last-Translator: Andrzej Zaborowski <andrew.zaborowski@intel.com>\n"
-"Language-Team: Meego\n"
+"Language-Team: Dawati\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -38,11 +38,11 @@ msgstr "Media"
 msgid "Multimedia applications"
 msgstr "Aplikacje multimediów"
 
-#: ../desktop-files/Settings-Meego.directory.in.h:1
+#: ../desktop-files/Settings-Dawati.directory.in.h:1
 msgid "Personal preferences"
 msgstr "Preferencje użytkownika"
 
-#: ../desktop-files/Settings-Meego.directory.in.h:2
+#: ../desktop-files/Settings-Dawati.directory.in.h:2
 msgid "Settings"
 msgstr "Ustawienia"
 

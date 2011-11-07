@@ -6,12 +6,12 @@
 # Teo  <anapospastos@hotmail.com>, 2011.
 msgid ""
 msgstr ""
-"Project-Id-Version: meego-menus\n"
-"Report-Msgid-Bugs-To: http://bugs.meego.com/\n"
+"Project-Id-Version: dawati-menus\n"
+"Report-Msgid-Bugs-To: http://bugs.dawati.com/\n"
 "POT-Creation-Date: 2011-11-02 13:27-0700\n"
 "PO-Revision-Date: 2011-04-30 17:27+0000\n"
 "Last-Translator: anapospastos <anapospastos@hotmail.com>\n"
-"Language-Team: Greek (http://www.transifex.net/projects/p/meego/team/el/)\n"
+"Language-Team: Greek (http://www.transifex.net/projects/p/dawati/team/el/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -34,11 +34,11 @@ msgstr "Πολυμέσα"
 msgid "Multimedia applications"
 msgstr "Εφαρμογές πολυμέσων"
 
-#: ../desktop-files/Settings-Meego.directory.in.h:1
+#: ../desktop-files/Settings-Dawati.directory.in.h:1
 msgid "Personal preferences"
 msgstr "Προσωπικές ρυθμίσεις"
 
-#: ../desktop-files/Settings-Meego.directory.in.h:2
+#: ../desktop-files/Settings-Dawati.directory.in.h:2
 msgid "Settings"
 msgstr "Ρυθμίσεις"
 

@@ -5,7 +5,7 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: meego-menus\n"
+"Project-Id-Version: dawati-menus\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2009-10-16 11:27+0000\n"
 "PO-Revision-Date: 2009-11-13 22:19+0200\n"
@@ -32,11 +32,11 @@ msgstr "وسائط"
 msgid "Multimedia applications"
 msgstr "تطبيقات متعددة الوسائط"
 
-#: ../desktop-files/Settings-Meego.directory.in.h:1
+#: ../desktop-files/Settings-Dawati.directory.in.h:1
 msgid "Personal preferences"
 msgstr "أفضليات شخصية"
 
-#: ../desktop-files/Settings-Meego.directory.in.h:2
+#: ../desktop-files/Settings-Dawati.directory.in.h:2
 msgid "Settings"
 msgstr "إعدادات"
 

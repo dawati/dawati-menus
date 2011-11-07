@@ -28,11 +28,11 @@ msgstr "Mídia"
 msgid "Multimedia applications"
 msgstr "Aplicativos de multimídia"
 
-#: ../desktop-files/Settings-Meego.directory.in.h:1
+#: ../desktop-files/Settings-Dawati.directory.in.h:1
 msgid "Personal preferences"
 msgstr "Preferências pessoais"
 
-#: ../desktop-files/Settings-Meego.directory.in.h:2
+#: ../desktop-files/Settings-Dawati.directory.in.h:2
 msgid "Settings"
 msgstr "Configurações  "
 

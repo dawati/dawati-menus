@@ -6,12 +6,12 @@
 # Torgeir Hjelmfoss <tih@inbox.com>, 2011.
 msgid ""
 msgstr ""
-"Project-Id-Version: meego-menus\n"
-"Report-Msgid-Bugs-To: http://bugs.meego.com/\n"
+"Project-Id-Version: dawati-menus\n"
+"Report-Msgid-Bugs-To: http://bugs.dawati.com/\n"
 "POT-Creation-Date: 2011-11-02 13:27-0700\n"
 "PO-Revision-Date: 2011-03-22 15:24+0000\n"
 "Last-Translator: toggster <tih@inbox.com>\n"
-"Language-Team: Norwegian Bokmål (http://www.transifex.net/projects/p/meego/team/nb/)\n"
+"Language-Team: Norwegian Bokmål (http://www.transifex.net/projects/p/dawati/team/nb/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -34,11 +34,11 @@ msgstr "Media"
 msgid "Multimedia applications"
 msgstr "Multimediaprogrammer"
 
-#: ../desktop-files/Settings-Meego.directory.in.h:1
+#: ../desktop-files/Settings-Dawati.directory.in.h:1
 msgid "Personal preferences"
 msgstr "Personlige preferanser"
 
-#: ../desktop-files/Settings-Meego.directory.in.h:2
+#: ../desktop-files/Settings-Dawati.directory.in.h:2
 msgid "Settings"
 msgstr "Innstillinger"
 

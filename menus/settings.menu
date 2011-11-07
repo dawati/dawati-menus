@@ -21,7 +21,7 @@
   <!-- Merge in these other files as submenus -->
   <Menu>
     <Name>Settings</Name>
-    <Directory>Settings-Meego.directory</Directory>
+    <Directory>Settings-Dawati.directory</Directory>
     <Include>
     <Or>
       <And>

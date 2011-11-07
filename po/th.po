@@ -1,11 +1,11 @@
-# Thai locale for meego-menus
+# Thai locale for dawati-menus
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
 # Anuchit Chalothorn <anoochit@gmail.com>, 2009.
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: meego-menus 2.x\n"
+"Project-Id-Version: dawati-menus 2.x\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2009-08-19 09:24+0000\n"
 "PO-Revision-Date: 2009-08-17 19:07+0700\n"
@@ -33,11 +33,11 @@ msgstr "สื่อ"
 msgid "Multimedia applications"
 msgstr "โปรแกรมมัลติมีเดีย"
 
-#: ../desktop-files/Settings-Meego.directory.in.h:1
+#: ../desktop-files/Settings-Dawati.directory.in.h:1
 msgid "Personal preferences"
 msgstr "ตั้งค่าส่วนบุคคล"
 
-#: ../desktop-files/Settings-Meego.directory.in.h:2
+#: ../desktop-files/Settings-Dawati.directory.in.h:2
 msgid "Settings"
 msgstr "ตั้งค่า"
 
