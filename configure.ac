@@ -11,15 +11,6 @@ AC_SUBST(GETTEXT_PACKAGE)
 # Honor aclocal flags
 ACLOCAL="$ACLOCAL $ACLOCAL_FLAGS"
 
-changequote(,)dnl
-if test "x$GCC" = "xyes"; then
-  case " $CFLAGS " in
-  *[\ \	]-Wall[\ \	]*) ;;
-  *) CFLAGS="$CFLAGS -Wall" ;;
-  esac
-fi
-changequote([,])dnl
-
 AM_GLIB_GNU_GETTEXT
 
 IT_PROG_INTLTOOL
